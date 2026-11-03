@@ -91,5 +91,3 @@ if uploaded:
         )
     except Exception as error:
         st.error(f"Could not process this image: {error}")
-else:
-    st.caption("The app runs locally or can be deployed free on Streamlit Community Cloud.")
