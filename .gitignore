@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.streamlit/
+sobel_edge_lab_qr.png
+.DS_Store
